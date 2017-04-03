@@ -1,0 +1,66 @@
+html,
+body {
+    height: 100%;
+}
+
+/*-------------INÍCIO CLASSE DO FOOTER---------------*/
+footer {
+    padding: 20px 0;
+    border-top: 20px solid #23140A;
+    background-color: #2d1709;
+    border-bottom: 20px solid #23140A;
+    
+}
+/*Classe da Cor da Fonte do Footer*/
+h5,h4,h3 {
+    color:white;
+}
+
+h4 {
+    color:white;
+    font-family: 'tangerine', serif;
+    font-style: italic;
+}
+
+/*Classe dos logos do Footer*/
+.img-responsive{
+    padding: 2px;
+}
+/*-------------FIM CLASSE DO FOOTER---------------*/
+
+
+/*-------------INÍCIO CLASSE DO NAV---------------*/
+/*Classe do ícon Bar*/
+
+nav {
+    background-color: #2d1709;
+}
+
+.icon-bar {
+  color: #FFFFFF;
+  border-color: #FFFFFF;
+  background-color: #FFFFFF;
+}
+
+#nav-logo{
+background-color: #2d1709;
+}
+
+#nav-menu{
+color: #FFFFFF;
+font-weight: bold;
+
+}
+
+#nav-restrita{
+  color: #FFFFFF;
+  background-color:;
+  position: relative;  
+  font-weight: bold;
+  
+  
+
+}
+
+
+/*-------------FIM CLASSE DO NAV---------------*/
