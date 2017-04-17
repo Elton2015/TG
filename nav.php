@@ -36,7 +36,7 @@
                     </li>
                 
                     <li>
-                        <a id="nav-restrita" href="">ÁREA RESTRITA</a>
+                        <a id="nav-restrita" href="loginform.php">ÁREA RESTRITA</a>
                     </li>
             </ul>
            
